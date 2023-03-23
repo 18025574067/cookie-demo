@@ -4,14 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4322ab6e-d1ae-425f-bdce-6de8f9767743" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-    </list>
+    <list default="true" id="4322ab6e-d1ae-425f-bdce-6de8f9767743" name="Changes" comment="home ubuntu16 ideaIU" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -48,7 +41,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
-    "settings.editor.selected.configurable": "MavenSettings",
+    "settings.editor.selected.configurable": "com.gitee.ui.GiteeSettingsConfigurable",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -60,11 +53,23 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1679585219687</updated>
-      <workItem from="1679585221017" duration="92000" />
+      <workItem from="1679585221017" duration="457000" />
     </task>
+    <task id="LOCAL-00001" summary="home ubuntu16 ideaIU">
+      <created>1679585633754</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1679585633754</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="home ubuntu16 ideaIU" />
+    <option name="LAST_COMMIT_MESSAGE" value="home ubuntu16 ideaIU" />
   </component>
 </project>
