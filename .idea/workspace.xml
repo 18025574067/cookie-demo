@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4322ab6e-d1ae-425f-bdce-6de8f9767743" name="Changes" comment="home ubuntu16 ideaIU" />
+    <list default="true" id="4322ab6e-d1ae-425f-bdce-6de8f9767743" name="Changes" comment="home ubuntu16 ideaIU">
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/itheima/web/AServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/itheima/web/AServlet.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -30,7 +32,9 @@
     </option>
   </component>
   <component name="ProjectId" id="2NQ90y84qIRBvEf5Dli6HLKyT5s" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -53,7 +57,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1679585219687</updated>
-      <workItem from="1679585221017" duration="457000" />
+      <workItem from="1679585221017" duration="842000" />
     </task>
     <task id="LOCAL-00001" summary="home ubuntu16 ideaIU">
       <created>1679585633754</created>
@@ -62,7 +66,21 @@
       <option name="project" value="LOCAL" />
       <updated>1679585633754</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="home ubuntu16 ideaIU">
+      <created>1679585698249</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1679585698249</updated>
+    </task>
+    <task id="LOCAL-00003" summary="home ubuntu16 ideaIU">
+      <created>1679585844746</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1679585844746</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
