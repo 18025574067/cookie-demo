@@ -1,4 +1,4 @@
-package com.itheima.web;
+package com.itheima.web.cookie;
 
 import javax.servlet.*;
 import javax.servlet.http.*;
@@ -16,8 +16,8 @@ public class AServlet extends HttpServlet {
 
         // URL编码
         String value = "张三";
-        value = URLEncoder.encode(value);
-        System.out.println(value);
+        value = URLEncoder.encode(value, "UTF-8");
+        System.out.println("存储数据：" + value);
 
         Cookie cookie = new Cookie("username", value);
 

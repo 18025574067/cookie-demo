@@ -1,4 +1,4 @@
-package com.itheima.web;
+package com.itheima.web.cookie;
 
 import javax.servlet.ServletException;
 import javax.servlet.annotation.WebServlet;
@@ -24,7 +24,7 @@ public class BServlet extends HttpServlet {
                 String value = cookie.getValue();
 
                 // URL解码
-                value = URLDecoder.decode(value);
+                value = URLDecoder.decode(value, "UTF-8");
 
                 System.out.println(name + ":" + value);
                 break;
