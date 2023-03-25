@@ -13,6 +13,8 @@ public class AServlet extends HttpServlet {
         // 发送cookie
         // 1. 创建cookie对象
 //        Cookie cookie = new Cookie("username", "hyb");
+
+        // URL编码
         String value = "张三";
         value = URLEncoder.encode(value);
         System.out.println(value);
