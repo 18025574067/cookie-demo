@@ -24,7 +24,6 @@ public class BServlet extends HttpServlet {
                 System.out.println(name + ":" + value);
                 break;
             }
-
         }
     }
 
