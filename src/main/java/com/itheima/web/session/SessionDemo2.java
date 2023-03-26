@@ -18,6 +18,9 @@ public class SessionDemo2 extends HttpServlet {
         HttpSession session = request.getSession();
         System.out.println(session);
 
+        // 销毁
+        session.invalidate();
+
         // 2. 获取数据
         Object username = session.getAttribute("username");
         System.out.println(username);
